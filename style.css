@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul, ol, li {
+    list-style: none;
+}
+
+h1 {
+    color: #102333;
+    font-size: 50px;
+    margin-left: 30px;
+}
+
+ul {
+    font-size: 30px;
+    margin-left: 150px;
+}

@@ -1,0 +1,10 @@
+body {
+    background: #0B2429; /* definindo cor de fundo */
+    margin: 0;
+    padding: 0;
+}
+
+#C1 {
+    width: 100px;
+    height: 100px;
+}

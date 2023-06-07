@@ -1,0 +1,38 @@
+body {
+    background-color: #62374e; /* dando cor ao fundo */
+    margin: 0;
+    padding: 0;
+}
+
+
+#Q1 {
+    width: 150px; /* definindo a largura do quadrado */
+    height: 150px; /* definindo a altura do quadrado */
+    background: #fdc57b; /* definindo a cor do quadrado */
+    margin-top: 190px; /* definindo o espaço entre o começo da página e a figura */
+    margin-left: 310px; /* definindo o espaço entre o lado esquerdo da página e a figua */
+}
+
+#Q2 {
+    width: 150px; /* definindo a largura do quadrado */
+    height: 150px; /* definindo a altura do quadrado */
+    background: #fdc57b; /* definindo a cor do quadrado */
+    margin-top: 300px; /* definindo o espaço entre o começo da página e a figura */
+    margin-left: 310px; /* definindo o espaço entre o lado esquerdo da página e a figua */
+}
+
+#Q3 {
+    width: 150px; /* definindo a largura do quadrado */
+    height: 150px; /* definindo a altura do quadrado */
+    background: #fdc57b; /* definindo a cor do quadrado */
+    margin-top: -590px; /* definindo o espaço entre o começo da página e a figura */
+    margin-left: 1390px; /* definindo o espaço entre o lado esquerdo da página e a figua */
+}
+
+#Q4 {
+    width: 150px; /* definindo a largura do quadrado */
+    height: 150px; /* definindo a altura do quadrado */
+    background: #fdc57b; /* definindo a cor do quadrado */
+    margin-top: 300px; /* definindo o espaço entre o começo da página e a figura */
+    margin-left: 1390px; /* definindo o espaço entre o lado esquerdo da página e a figua */
+}
