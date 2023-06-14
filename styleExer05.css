@@ -6,12 +6,40 @@ body {
     height: 100vh;
 }
 
-div {
-    width: 120px;
-    height: 120px;
+.prim {
+    width: 170px;
+    height: 170px;
     background: #F3AC3C;
     border-top-left-radius: 50%;
     border-bottom-left-radius: 50%;
     border-bottom-right-radius: 50%;
     margin-top: 100px
+    margin-right: 100px;
+    z-index: 3;
+    position: absolute;
 }
+
+.segun {
+    width: 170px;
+    height: 170px;
+    background: #998235;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    margin-top: -70px;
+    margin-left: 70px;
+    position: absolute;
+    z-index: 2;
+}
+
+.terc {
+    width: 170px;
+    height: 170px;
+    background: #F3AC3C;
+    border-radius: 100%;
+    margin-top: -172px;
+    margin-left: 165px;
+    position: absolute;
+    z-index: 1;
+}
+
